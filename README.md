@@ -1,3 +1,3 @@
 # overview
-details
+Details
 現状特になし。
