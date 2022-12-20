@@ -1,3 +1,2 @@
-# overview
-Details
-現状特になし。
+# 詳細
+特になし
